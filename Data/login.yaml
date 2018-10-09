@@ -2,10 +2,10 @@ BN_test_login_001:
   username: "18610453007"
   password: "123456"
   expect: "itheima"
-BN_test_login_002:
-  username: "itheima"
-  password: "123456"
-  expect: "itheima"
+#BN_test_login_002:
+#  username: "itheima"
+#  password: "123456"
+#  expect: "itheima"
 #BN_test_login_003:
 #  username: " 18610453007 "
 #  password: "123456"
