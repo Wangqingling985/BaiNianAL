@@ -1,0 +1,93 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1539342896934" stop="1539342946895">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1539342896934" status="passed" stop="1539342946895">
+      <name>TestLogin.test_login[18610453007-123456-itheima-None]</name>
+      <attachments>
+        <attachment source="11a078b3-7229-46f9-80cc-983910a715ea-attachment.txt" title="登录状态：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="83696-MainThread"/>
+        <label name="host" value="LAPTOP-T34O4NDC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1539342912388" status="passed" stop="1539342915803">
+          <name>点击我</name>
+          <title>点击我</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342915803" status="passed" stop="1539342919161">
+          <name>点击已有账号，去登录</name>
+          <title>点击已有账号，去登录</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342919162" status="passed" stop="1539342920881">
+          <name>输入账号</name>
+          <title>输入账号</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342920881" status="passed" stop="1539342922973">
+          <name>输入密码</name>
+          <title>输入密码</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342922973" status="passed" stop="1539342923528">
+          <name>点击登录按钮</name>
+          <title>点击登录按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342923528" status="passed" stop="1539342926943">
+          <name>封装 获取nickname方法</name>
+          <title>封装 获取nickname方法</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342926943" status="passed" stop="1539342926998">
+          <name>点击设置按钮</name>
+          <title>点击设置按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342926998" status="passed" stop="1539342942566">
+          <name>滑动 消息推送--&gt;修改密码</name>
+          <title>滑动 消息推送--&gt;修改密码</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342942566" status="passed" stop="1539342943135">
+          <name>点击退出</name>
+          <title>点击退出</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342943135" status="passed" stop="1539342944210">
+          <name>点击确认退出</name>
+          <title>点击确认退出</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342944210" status="passed" stop="1539342945105">
+          <name>点击我</name>
+          <title>点击我</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1539342945105" status="passed" stop="1539342946895">
+          <name>点击已有账号，去登录</name>
+          <title>点击已有账号，去登录</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

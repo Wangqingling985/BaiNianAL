@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-T34O4NDC",
+    "children" : [ {
+      "name" : "55468-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test_login[18610453007-123456-itheima-None]",
+        "uid" : "7e37c4f624875a94",
+        "parentUid" : "5447d9bd15ca80eb521d94a5a5f85cd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1539074410566,
+          "stop" : 1539074468402,
+          "duration" : 57836
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestLogin.test_login[18610453007-12345-None-\\u767b\\u5f55\\u5bc6\\u7801\\u9519\\u8bef]",
+        "uid" : "1652bf7e8114d449",
+        "parentUid" : "5447d9bd15ca80eb521d94a5a5f85cd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1539074468420,
+          "stop" : 1539074474805,
+          "duration" : 6385
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5447d9bd15ca80eb521d94a5a5f85cd0"
+    } ],
+    "uid" : "e66446395f2bf409fb31c8ca6129403b"
+  } ]
+}

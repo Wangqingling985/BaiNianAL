@@ -1,0 +1,29 @@
+add_address:
+  test_address_001:
+    receipt_name: "李四"
+    add_phone: "18600000000"
+    sheng: "广东省"
+    shi: "广州市"
+    qu: "海珠区"
+    address: "河北省海珠区"
+    postcode: "666666"
+updata_address:
+  test_address_002:
+    receipt_name: "在职"
+    add_phone: "18600000000"
+    sheng: "广东省"
+    shi: "广州市"
+    qu: "海珠区"
+    address: "河北省海珠区"
+    postcode: "666666"
+    toast_expect: "保存成功"
+
+
+
+
+
+
+
+
+
+
