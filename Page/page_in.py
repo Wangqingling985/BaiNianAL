@@ -10,3 +10,7 @@ class PageIn():
         return PageLogin(self.driver)
     def page_get_address(self):
         return PageAddress(self.driver)
+		
+		
+		
+		
